@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Anderson Johny</h1>
+<h1 align="center">Hi 👋, I'm Anderson Johny George</h1>
 <h3 align="center">🐍 Python Developer | Problem Solver | Degree Student</h3>
 
 <p align="center">
