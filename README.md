@@ -11,27 +11,36 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Anderson Johny</h1>
-<h3 align="center">🚀 React Developer | Web Developer | Degree Student</h3>
+<h3 align="center">🐍 Python Developer | Problem Solver | Degree Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=React+Developer;Frontend+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Problem+Solver;Learning+Data+Structures;Always+Improving&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 - 🎓 Degree Student
-- 💻 Passionate about Frontend Development
-- 🌱 Currently learning React.js & Advanced JavaScript
-- 🎯 Goal: Become a Full Stack Developer
+- 🐍 Passionate about Python Programming
+- 💡 Interested in Problem Solving & Backend Development
+- 📚 Currently practicing DSA & Projects
 - 📫 Email: your-email@example.com
 
 ---
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,php,laravel,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vscode" />
 </p>
+
+---
+
+## 📌 Python Skills
+- ✅ Data Structures
+- ✅ OOP Concepts
+- ✅ File Handling
+- ✅ Basic MySQL
+- ✅ Problem Solving (Loops, Functions, Lists, Strings)
 
 ---
 
@@ -55,9 +64,6 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
-    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
