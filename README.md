@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🐍 Passionate about Python Programming
 - 💡 Interested in Problem Solving & Backend Development
 - 📚 Currently practicing DSA & Projects
-- 📫 Email: your-email@example.com
+- 📫 Email: andersonjohny17@gmail.com
 
 ---
 
