@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vscode,PYCHARM" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vscode,pl\sql" />
 </p>
 
 ---
