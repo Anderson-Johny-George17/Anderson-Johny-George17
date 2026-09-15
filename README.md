@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Anderson Johny George</h1>
-<h3 align="center">🐍 Python Developer | Problem Solver | Degree Student</h3>
+<h3 align="center">🐍 Python Developer | Problem Solver | MCA Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Problem+Solver;Learning+Data+Structures;Always+Improving&center=true&width=500&height=45">
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Degree Student
+- 🎓 MCA Student
 - 🐍 Passionate about Python Programming
 - 💡 Interested in Problem Solving & Backend Development
 - 📚 Currently practicing DSA & Projects
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vscode,PYCHARM" />
 </p>
 
 ---
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Anderson-Johny-George17&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -69,4 +69,4 @@ Here are some ideas to get you started:
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/Anderson-Johny-George17)
+⭐️ From [ANDERSON JOHNY GEORGE](https://github.com/Anderson-Johny-George17)
