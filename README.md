@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/anderson-johny-george-1202aa3a9">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐️ From [YOUR_USERNAME](https://github.com/Anderson-Johny-George17)
